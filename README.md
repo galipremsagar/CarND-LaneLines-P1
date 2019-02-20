@@ -3,6 +3,10 @@
 
 <img src="examples/laneLines_thirdPass.jpg" width="480" alt="Combined Image" />
 
+# Lane Detections
+
+<img src="https://github.com/galipremsagar/CarND-LaneLines-P1/blob/master/test_videos_output/challenge-min.gif"/>
+
 Overview
 ---
 
